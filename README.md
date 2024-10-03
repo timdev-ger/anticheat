@@ -50,7 +50,7 @@ By combining **Driver-Guard** and **Hypervisor Detection**, TD-Anticheat ensures
 
 ## 👥 Contributors
 
-A big thank you to everyone involved in the development of **TD-Anticheat**. If you'd like to be part of the project, check out our [contribution guidelines]([https://github.com/your-repository/CONTRIBUTING.md](https://discord.gg/tqm9fVfAcF)).
+A big thank you to everyone involved in the development of **TD-Anticheat**. If you'd like to be part of the project, check out our [discord]([https://discord.gg/tqm9fVfAcF]).
 
 ---
 
